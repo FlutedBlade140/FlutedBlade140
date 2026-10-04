@@ -1,4 +1,4 @@
-# Hi, I'm Mohamed Attia 👋
+# Hi, I'm Mohamed Maghrabi 👋
 
 **Python Developer & Web Scraping Specialist**
 
